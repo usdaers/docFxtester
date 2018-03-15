@@ -1,0 +1,39 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: ClassLibrary1
+  name: ClassLibrary1
+  href: api/ClassLibrary1.html
+  commentId: N:ClassLibrary1
+  fullName: ClassLibrary1
+  nameWithType: ClassLibrary1
+- uid: ClassLibrary1.Class1
+  name: Class1
+  href: api/ClassLibrary1.Class1.html
+  commentId: T:ClassLibrary1.Class1
+  fullName: ClassLibrary1.Class1
+  nameWithType: Class1
+- uid: ClassLibrary1.Class1.#ctor
+  name: Class1()
+  href: api/ClassLibrary1.Class1.html#ClassLibrary1_Class1__ctor
+  commentId: M:ClassLibrary1.Class1.#ctor
+  fullName: ClassLibrary1.Class1.Class1()
+  nameWithType: Class1.Class1()
+- uid: ClassLibrary1.Class1.#ctor*
+  name: Class1
+  href: api/ClassLibrary1.Class1.html#ClassLibrary1_Class1__ctor_
+  commentId: Overload:ClassLibrary1.Class1.#ctor
+  fullName: ClassLibrary1.Class1.Class1
+  nameWithType: Class1.Class1
+- uid: ClassLibrary1.Class1.HelloWorld(System.String)
+  name: HelloWorld(String)
+  href: api/ClassLibrary1.Class1.html#ClassLibrary1_Class1_HelloWorld_System_String_
+  commentId: M:ClassLibrary1.Class1.HelloWorld(System.String)
+  fullName: ClassLibrary1.Class1.HelloWorld(System.String)
+  nameWithType: Class1.HelloWorld(String)
+- uid: ClassLibrary1.Class1.HelloWorld*
+  name: HelloWorld
+  href: api/ClassLibrary1.Class1.html#ClassLibrary1_Class1_HelloWorld_
+  commentId: Overload:ClassLibrary1.Class1.HelloWorld
+  fullName: ClassLibrary1.Class1.HelloWorld
+  nameWithType: Class1.HelloWorld
